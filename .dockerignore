@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs
+venv/
+.venv/
+
+# Env files
+.env
+*.env
+
+# Logs
+*.log
+
+# Credentials (critical)
+*.json
+
+# Git
+.git/
+.DS_Store
