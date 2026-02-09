@@ -1,4 +1,4 @@
-# Drive & Notion Folder Automation
+# Drive & Notion Automation
 
 Automation service that provisions Google Drive folder structures for Notion records and manages document templates.
 
